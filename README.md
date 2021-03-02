@@ -1,1 +1,1 @@
-# Spatiospectral_Attention_Network_HSI_Classification
+# Branched Spatial Spectral Attention and Classification Methodolgy for Hyperspectral Data Classification
