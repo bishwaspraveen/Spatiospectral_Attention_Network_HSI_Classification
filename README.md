@@ -24,3 +24,11 @@ Deep learning based hyperspectral data analysis methodologies have made signific
 
 ### Spatial Attention Module
 <img src="https://user-images.githubusercontent.com/79660080/109743803-ee677300-7b96-11eb-8118-2adbaca2f800.png" width="750" height="350">
+
+## Results
+
+### Classification Map (10% Training Data)
+
+### Classification Accuracy Table (10% Training Data)
+
+### Training Loss v/s Validation Loss plot (10% Training Data)
