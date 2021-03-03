@@ -1,0 +1,29 @@
+
+98.49451780319214 Test accuracy (%)
+98.28297484461987 Kappa score (%)
+98.4945200529929 Overall Accuracy (%)
+
+
+                              precision    recall  f1-score   support
+
+                     Alfalfa      1.000     0.811     0.896        37
+                 Corn-notill      0.996     0.966     0.981      1157
+                Corn-mintill      0.971     0.993     0.982       672
+                        Corn      0.995     0.974     0.984       192
+               Grass-pasture      0.997     0.985     0.991       392
+                 Grass-trees      0.978     0.992     0.985       591
+         Grass-pasture-mowed      0.917     1.000     0.957        22
+               Hay-windrowed      0.982     1.000     0.991       387
+                        Oats      0.941     1.000     0.970        16
+              Soybean-notill      0.979     0.990     0.984       788
+             Soybean-mintill      0.980     0.991     0.985      1989
+               Soybean-clean      1.000     0.956     0.978       481
+                       Wheat      1.000     0.988     0.994       166
+                       Woods      0.994     1.000     0.997      1025
+Buildings-Grass-Trees-Drives      0.971     0.971     0.971       312
+          Stone-Steel-Towers      0.962     1.000     0.981        76
+
+                   micro avg      0.985     0.985     0.985      8303
+                   macro avg      0.979     0.976     0.977      8303
+                weighted avg      0.985     0.985     0.985      8303
+
