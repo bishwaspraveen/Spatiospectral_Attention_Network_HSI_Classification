@@ -33,6 +33,6 @@ Deep learning based hyperspectral data analysis methodologies have made signific
 ### Classification Accuracy Table (10% Training Data)
 
 ### Training v/s Validation Loss and Accuracy plot (10% Training Data)
-<img src="https://user-images.githubusercontent.com/79660080/109744965-ce38b380-7b98-11eb-823f-49aabcea16de.PNG" width="250" height="550">
+<img src="https://user-images.githubusercontent.com/79660080/109744965-ce38b380-7b98-11eb-823f-49aabcea16de.PNG" width="450" height="550">
 
 
