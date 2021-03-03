@@ -34,6 +34,6 @@ Deep learning based hyperspectral data analysis methodologies have made signific
 <img src="https://user-images.githubusercontent.com/79660080/109745525-9e3de000-7b99-11eb-8b38-19da5f8b4713.PNG" width="650" height="350">
 
 ### Training v/s Validation Loss and Accuracy plot (10% Training Data)
-<img src="https://user-images.githubusercontent.com/79660080/109744965-ce38b380-7b98-11eb-823f-49aabcea16de.PNG" width="450" height="700">
+<img src="https://user-images.githubusercontent.com/79660080/109744965-ce38b380-7b98-11eb-823f-49aabcea16de.PNG" width="400" height="800">
 
 
