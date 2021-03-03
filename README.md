@@ -6,7 +6,7 @@ Deep learning based hyperspectral data analysis methodologies have made signific
 ## Dataset
 **Name :** Indian Pines
 
-**Size :** (145 x 145 x 200) pixels
+**Size :** (145 x 145 x 200) pixels or 4,205,000 pixels
 
 ### Ground Truth (Labels)
 <img src="https://user-images.githubusercontent.com/79660080/109741619-0937e880-7b93-11eb-85bc-c669356dd027.PNG" width="250" height="250">
