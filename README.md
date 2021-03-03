@@ -12,4 +12,6 @@ Deep learning based hyperspectral data analysis methodologies have made signific
 <img src="https://user-images.githubusercontent.com/79660080/109741619-0937e880-7b93-11eb-85bc-c669356dd027.PNG" width="250" height="250">
 
 ### Input Raw Data
+<img src="https://user-images.githubusercontent.com/79660080/109742886-72206000-7b95-11eb-9b41-ab9bdff7c0fd.PNG" width="250" height="250">
+
 
