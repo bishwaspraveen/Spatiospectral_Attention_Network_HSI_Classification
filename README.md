@@ -6,3 +6,6 @@ Deep learning based hyperspectral data analysis methodologies have made signific
 ## Dataset
 
 ### Ground Truth (Labels)
+![Pines-ground_truth](https://user-images.githubusercontent.com/79660080/109741619-0937e880-7b93-11eb-85bc-c669356dd027.PNG)
+
+### Input Raw Data
