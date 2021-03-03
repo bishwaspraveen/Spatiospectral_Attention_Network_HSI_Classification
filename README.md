@@ -14,7 +14,7 @@ Deep learning based hyperspectral data analysis methodologies have made signific
 ### Input Raw Data
 <img src="https://user-images.githubusercontent.com/79660080/109742886-72206000-7b95-11eb-9b41-ab9bdff7c0fd.PNG" width="250" height="250">
 
-## Pictorial Representation of Architecture
+## Pictorial Representation of the Classification Methodology
 
 ### Overall Pipeline
 <img src="https://user-images.githubusercontent.com/79660080/109743578-8dd83600-7b96-11eb-8c73-a1f1a30f04b2.PNG" width="650" height="350">
