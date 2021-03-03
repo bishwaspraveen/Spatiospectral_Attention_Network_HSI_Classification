@@ -14,4 +14,12 @@ Deep learning based hyperspectral data analysis methodologies have made signific
 ### Input Raw Data
 <img src="https://user-images.githubusercontent.com/79660080/109742886-72206000-7b95-11eb-9b41-ab9bdff7c0fd.PNG" width="250" height="250">
 
+## Pictorial Representation of Architecture
 
+### Overall Pipeline
+
+
+### Spectral Attention Module
+
+
+### Spatial Attention Module
