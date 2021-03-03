@@ -23,3 +23,4 @@ Deep learning based hyperspectral data analysis methodologies have made signific
 <img src="https://user-images.githubusercontent.com/79660080/109743662-b2cca900-7b96-11eb-8a66-4bd4ed1f30c2.PNG">
 
 ### Spatial Attention Module
+<img src="https://user-images.githubusercontent.com/79660080/109743803-ee677300-7b96-11eb-8118-2adbaca2f800.png">
