@@ -7,5 +7,6 @@ Deep learning based hyperspectral data analysis methodologies have made signific
 
 ### Ground Truth (Labels)
 ![Pines-ground_truth](https://user-images.githubusercontent.com/79660080/109741619-0937e880-7b93-11eb-85bc-c669356dd027.PNG){:height="50%" width="50%"}
+<img src="https://user-images.githubusercontent.com/79660080/109741619-0937e880-7b93-11eb-85bc-c669356dd027.PNG" width="100" height="100">
 
 ### Input Raw Data
